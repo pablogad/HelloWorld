@@ -4,7 +4,7 @@
 package com.helloworld.interfaces;
 
 /**
- * @author s233163
+ * @author PGAD
  *
  */
 public interface Printer {
